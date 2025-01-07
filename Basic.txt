@@ -1,0 +1,6 @@
+import java.util.*;
+class Basic{
+public static void main (String args[]){
+System.out.println("First commmit");
+}
+}
